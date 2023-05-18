@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dragos</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-<img align="left" alt="Coding" width="400" src="https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc"/>
+<img align="right" alt="Coding" width="400" src="https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc"/>
 
 - 🌱 I’m currently learning **Angular**
 
