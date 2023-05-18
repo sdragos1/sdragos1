@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dragos-suceveanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dragos suceveanu" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/dragos-suceveanu](https://www.linkedin.com/in/dragos-suceveanu-a2275b260/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dragos suceveanu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
