@@ -9,6 +9,7 @@ I’m exploring everything I can about backend development, and I’m also inter
 ✔️ **Todoist Clone** - Clone of the famous ToDo app. Diving deeper into Flutter code generation and [BloC](https://bloclibrary.dev/ "BloC") state management.
 
 <h2> Involvements & contributions </h2>
+
 🕶️ Participated in the [**Punk Security**](https://punksecurity.co.uk/ "**Punk Security**") and Google CTF: 2023
 
 📖 Pedagogical assistant: 2023
