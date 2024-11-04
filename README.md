@@ -3,7 +3,7 @@
 Student at [**Epitech**](https://www.epitech.eu/ "**Epitech**") in France and a tech enthusiast.
 I’m exploring everything I can about backend development, and I’m also interested in cybersecurity and music mixing.
 
-## Current Projects
+<h2> Current Projects </h2>
 🪄 **Quibbler** - Content aggregator and tech news reader. Learning NX, microservice architecture and websockets
 
 ✔️ **Todoist Clone** - Clone of the famous ToDo app. Diving deeper into Flutter code generation and [BloC](https://bloclibrary.dev/ "BloC") state management.
