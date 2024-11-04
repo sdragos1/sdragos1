@@ -18,5 +18,6 @@ I’m exploring everything I can about backend development, and I’m also inter
 🥳 Volunteer at [**DevFest** ](https://devfest2024.gdgnantes.com/en/ "**DevFest** ") and [**Web2Day**](https://2023.web2day.co/en/ "**Web2Day**"): 2022, 2023
 
 <h2> Technologies </h2>
+
 ![Stack](https://skillicons.dev/icons?i=c,cpp,py,ts,next,angular,tailwind,nest,mongodb,postgres,flutter,dart)
 
