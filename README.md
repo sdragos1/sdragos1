@@ -1,9 +1,3 @@
-<style>
-  .no-underline h1 h2 {
-    text-decoration: none;
-  }
-</style>
-
 <h1>Hi 👋, I'm Dragos</h1>
 
 Student at [**Epitech**](https://www.epitech.eu/ "**Epitech**") in France and a tech enthusiast.
