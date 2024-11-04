@@ -9,8 +9,11 @@ I’m exploring everything I can about backend development, and I’m also inter
 
 #### Involvements & contributions
 🕶️ Participated in the [**Punk Security**](https://punksecurity.co.uk/ "**Punk Security**") and Google CTF: 2023
+
 📖 Pedagogical assistant: 2023
+
 💸 Internship at [**Lucca**](https://www.lucca-software.com/ "Lucca") on the Pagga Team: 2023
+
 🥳 Volunteer at [**DevFest** ](https://devfest2024.gdgnantes.com/en/ "**DevFest** ") and [**Web2Day**](https://2023.web2day.co/en/ "**Web2Day**"): 2022, 2023
 
 #### Technologies
