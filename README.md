@@ -5,6 +5,7 @@ I’m exploring everything I can about backend development, and I’m also inter
 
 ## Current Projects
 🪄 **Quibbler** - Content aggregator and tech news reader. Learning NX, microservice architecture and websockets
+
 ✔️ **Todoist Clone** - Clone of the famous ToDo app. Diving deeper into Flutter code generation and [BloC](https://bloclibrary.dev/ "BloC") state management.
 
 ## Involvements & contributions
